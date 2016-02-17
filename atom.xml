@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[中文]]></title>
+  <title><![CDATA[海光湾]]></title>
   <link href="http://njuyangyang.github.io/atom.xml" rel="self"/>
   <link href="http://njuyangyang.github.io/"/>
-  <updated>2016-02-17T00:05:35-06:00</updated>
+  <updated>2016-02-17T00:24:05-06:00</updated>
   <id>http://njuyangyang.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[杨阳]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
