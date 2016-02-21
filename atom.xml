@@ -4,7 +4,7 @@
   <title><![CDATA[海光湾]]></title>
   <link href="http://njuyangyang.github.io/atom.xml" rel="self"/>
   <link href="http://njuyangyang.github.io/"/>
-  <updated>2016-02-20T18:11:08-06:00</updated>
+  <updated>2016-02-20T18:19:58-06:00</updated>
   <id>http://njuyangyang.github.io/</id>
   <author>
     <name><![CDATA[sweet prince]]></name>
@@ -12,44 +12,5 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
-  
-  <entry>
-    <title type="html"><![CDATA[My First Test of This Frame]]></title>
-    <link href="http://njuyangyang.github.io/blog/2016/02/20/my-first-test-of-this-frame/"/>
-    <updated>2016-02-20T16:52:18-06:00</updated>
-    <id>http://njuyangyang.github.io/blog/2016/02/20/my-first-test-of-this-frame</id>
-    <content type="html"><![CDATA[<h1>Tutorial for markdown</h1>
-
-<p>use asterisks to <strong>bold</strong> text.
-use underscore key to_italicize_ text.
-use underscore key to <em>iterlicize</em></p>
-
-<h1>Ordered list</h1>
-
-<ol>
-<li>Apples</li>
-<li>Pears</li>
-<li>Oranges</li>
-</ol>
-
-
-<h1>Unordered List</h1>
-
-<ul>
-<li>apple</li>
-<li>pear</li>
-<li>orange</li>
-</ul>
-
-
-<blockquote><p>this is a quote</p></blockquote>
-
-<h2>Email</h2>
-
-<p><a href="&#109;&#97;&#x69;&#108;&#116;&#x6f;&#x3a;&#121;&#97;&#x6e;&#x67;&#x79;&#x61;&#x6e;&#103;&#103;&#x72;&#101;&#x40;&#103;&#109;&#97;&#x69;&#x6c;&#46;&#x63;&#111;&#x6d;">&#121;&#97;&#x6e;&#x67;&#121;&#97;&#x6e;&#x67;&#x67;&#114;&#x65;&#x40;&#x67;&#x6d;&#x61;&#x69;&#108;&#x2e;&#x63;&#x6f;&#x6d;</a></p>
-
-<p>Thisi is an inline link for <a href="http://people.tamu.edu/~njuyangyang">MakeUseof</a></p>
-]]></content>
-  </entry>
   
 </feed>
